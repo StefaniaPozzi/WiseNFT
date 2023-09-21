@@ -1,0 +1,11 @@
+{
+  "name": "Wisy",
+  "description": "AI generated Guinea Pig",
+  "image": "https://ipfs.io/ipfs/QmW3vVGZPoLkLoagsZ7rh41BeYpveYowgj5ijsa9AYZE7G?filename=guineaPig1.png",
+  "attributes": [
+    {
+      "trait_type": "creepiness",
+      "value": 75
+    }
+  ]
+}

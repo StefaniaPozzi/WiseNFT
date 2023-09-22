@@ -1,0 +1,4 @@
+HappyNFTIntergrationTest:testFlip() (gas: 196603)
+HappyNFTTest:testShowTokenUri() (gas: 4946251)
+WiseNFTTest:testMintsAndHasBalance() (gas: 175246)
+WiseNFTTest:testName() (gas: 9657)
